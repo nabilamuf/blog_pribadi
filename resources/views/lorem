@@ -1,0 +1,20 @@
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iste delectus minima neque, itaque quas temporibus voluptas harum
+     repellat. Quos dignissimos sunt quae animi aliquam accusamus possimus amet praesentium, debitis modi expedita asperiores 
+     fugit dolorum, voluptatum corrupti doloremque?</p><p>Inventore suscipit molestias maiores esse porro sit blanditiis officia cum 
+     unde praesentium corporis a, necessitatibus eaque dolor harum impedit, iste doloribus tenetur quam, nobis labore 
+     consequatur ipsam soluta? Ea voluptatem, sapiente, quae debitis reiciendis </p> <p>at corporis dolorem, asperiores saepe hic 
+     accusantium! Odio fuga modi obcaecati quisquam distinctio in quo esse, ullam nemo blanditiis fugit earum, necessitatibus
+      vitae dolores? Aspernatur atque quas fugit non adipisci natus exercitationem. Ab ullam facere, voluptatem ratione odit
+       iure dolorum consectetur accusamus quasi quia, inventore non, ea quam sequi itaque hic temporibus voluptatum aliquid 
+       doloremque. Aspernatur sequi ipsum, veritatis officiis quisquam obcaecati beatae architecto ratione delectus earum 
+       eveniet optio non praesentium neque deleniti impedit quo explicabo dolorum voluptas omnis?</p>
+
+
+
+    post::create([
+    
+        'judul'=>'judul ketiga',
+        'slug'=>'judul-ketiga',
+        'excerpt'=>'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iste delectus minima neque, itaque quas temporibus repellat.',
+        'body'=> '<p>nabila senang membuat suah program baru ia senang</p> <p>usahaa dan berusaha bangt untuk belajar programming</p>'
+    ]);
